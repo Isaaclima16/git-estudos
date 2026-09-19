@@ -1,1 +1,3 @@
-"# Meus estudos com Git" 
+# Git Estudos
+
+Meu primeiro repositório para aprender Git e GitHub.
