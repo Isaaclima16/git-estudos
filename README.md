@@ -9,3 +9,5 @@ Estou aprendendo Git e GitHub.
 Praticando branches e versionamento.
 
 aula - 1
+
+Aprendendo GIT pelo VScode
