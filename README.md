@@ -11,3 +11,7 @@ Praticando branches e versionamento.
 aula - 1
 
 Aprendendo GIT pelo VScode
+
+## Branch pelo VS Code
+
+Minha primeira branch criada pelo VS Code.
